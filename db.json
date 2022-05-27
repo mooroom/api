@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "dangerZone": {
+    "lat": 37.56458205,
+    "lon": 126.92234308
   }
 }
